@@ -3,7 +3,7 @@
 
 Apaixonada por tecnologia 🥰, curso o 1º semestre de Ciências da Computação. Estou sempre em busca  de adquirir conhecimento e experiência. 👩‍💻
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsr13&show_icons=true&theme=radical)
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsr13&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_black"><br/>
@@ -13,7 +13,7 @@ Apaixonada por tecnologia 🥰, curso o 1º semestre de Ciências da Computaçã
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsr13&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsr13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sistemas Operacionais
 <div style="display: inline_black"><br/>
