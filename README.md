@@ -13,7 +13,7 @@ Apaixonada por tecnologia 🥰, curso o 1º semestre de Ciências da Computaçã
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsr13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsr13&layout=compact)]
 
 ## Sistemas Operacionais
 <div style="display: inline_black"><br/>
