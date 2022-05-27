@@ -19,7 +19,8 @@ Apaixonada por tecnologia 🥰, curso o 1º semestre de Ciências da Computaçã
 <div style="display: inline_black"><br/>
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img align="center" alt="macOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</div></br>
+</div>
 
 ## Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-s-387268134/)
+</br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-s-387268134/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriela.stelaramos)
